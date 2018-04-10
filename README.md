@@ -1,4 +1,4 @@
-# vitalrecords-oauth-server
+# Oauth-server
 
 Oauth server prototype.
 Let use more than one user provider, customers and admin user for example.
