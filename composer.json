@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "srmussol/lumen-oauth-server",
+    "description": "Oauth server based on Lumen framework",
+    "keywords": ["framework", "laravel", "lumen", "oauth"],
     "license": "MIT",
     "type": "project",
     "require": {
